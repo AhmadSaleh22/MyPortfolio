@@ -116,7 +116,7 @@ export const SectionSubText = styled.p`
     line-height: 22px;
   }
 `
-export const SecondaryBtn = styled.button`
+export const SecondaryBtn = styled.a`
   color: #FFF;
   background: none;
   border: 1px solid rgba(255, 255, 255, 0.33);
